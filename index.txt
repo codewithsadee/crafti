@@ -1,0 +1,196 @@
+Crafti - We Make Top Quality Handmade Products
+
+This is a Handmade Products html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+Crafti
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+About Us
+Blog
+Contact Us
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+We Make Top Quality Handmade Products
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+
+View Collection
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = view of assortment of decor for interior shop
+
+alt = ceramic craft ware
+
+alt = laves
+
+
+
+#---------- ABOUT ----------#
+
+alt = craftman in workshop
+
+Make Handicrafts Since 1992
+
+alt = interior view of a leather shop selling belts brac
+
+Innovative Design is Our Passion
+
+Curabitur interdum malesuada lectus ut pharetra. Sed tellus ante, aliquet a sem id, ultricies varius dolor. Nam volutpat hendrerit massa. Crasposuere ornare elementum.
+
+Read More
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+alt = concentrated artisans in workshop
+
+
+
+#---------- COLLECTION ----------#
+
+Unique Handicrafts Collection
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin molestie ligula dignissim.
+
+alt = Pottery & Ceramics
+
+Pottery & Ceramics
+
+Cras fermentum augue ac purus pharetra man aliquam fringilla ornare quam.
+
+View Gallery
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Leather Craft
+
+Home Decoration
+
+
+
+#---------- FEATURES ----------#
+
+aria-label = play video: man making handmade belt
+
+alt = play icon
+
+Passionate About Elegance and Beauty Design
+
+Curabitur porttitor nulla vitae purus eleifend feugiat. Quisque faucibus sapien, ut porttitor lorem.
+
+alt = review icon
+
+100% Guarantee
+Vestibulum in eros at lectus commodo
+
+alt = badge icon
+
+Professional Staffs
+
+alt = money bag icon
+
+Affordable Price
+
+Nunc cursus ante libero, et convallis eros tristique nec. Fusce consequat lectus dui, nec laoreet purus venenatis id.
+
+
+
+#---------- TESTIMONIALS ----------#
+
+Etiam ultricies eros ut malesuada condimentum. Cras in nisl sit amet dui molestie tristique ut vitae libero nec laoreet purus.
+
+Edward Fransisco
+
+Founder Crafti
+
+alt = quote
+
+
+
+#---------- GALLERY ----------#
+
+Vases & Plant Pots
+
+View Gallery
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Clay Craft
+
+Sculpturing
+
+Accesories
+
+
+
+#---------- BLOG ----------#
+
+Blog & News
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin molestie ligula dignissim.
+
+alt = The Detail Process Of Decorating The Clay Vase At Pottery Studio
+
+The Detail Process Of Decorating The Clay Vase At Pottery Studio
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+admin
+
+<ion-icon name="calendar-clear-outline" aria-hidden="true"></ion-icon>
+October 12, 2022
+
+<ion-icon name="folder-open-outline" aria-hidden="true"></ion-icon>
+Tips & Trick
+
+Skills And Techniques To Make A Genuine Leather Wallet
+
+5 Latest And Trending Handmade Crafts For Adults And Kids
+
+Homemade Business That Now Makes Hundreds Of Millions
+
+Read More
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+
+#---------- FOOTER ----------#
+
+Crafti
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non porttitor augue, in convallis risus. Sed efficitur nulla quis luctus pulvinar. Cras nec pulvinar condimentum lacus.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+Explore Us
+About Us
+Collection
+Features
+Blog & News
+
+Support
+Account
+Feedback
+Support Center
+Our Stores
+
+Get in Touch
+
+Question or feedback?
+We’d love to hear from you
+
+Contact Us
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Copyright 2022 codewithsadee. All Right Reserved
